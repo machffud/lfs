@@ -1,0 +1,26 @@
+ZCZC pwd
+/home/machffud/RESULT/W08
+ZCZC date
+Sun 09 May 2021 03:09:44 PM WIB
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             1563236       0   1563236   0% /dev
+tmpfs             315624    4400    311224   2% /run
+/dev/sda2       65543732 2757852  59426648   5% /
+tmpfs            1578104       0   1578104   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            1578104       0   1578104   0% /sys/fs/cgroup
+tmpfs             315620       0    315620   0% /run/user/1001
+/dev/sdb2       65543732   53272  62131228   1% /mnt/lfs
+ZCZC hostnamectl
+   Static hostname: machffud
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 3821e3074f7148e687322f91fdb6b4b3
+           Boot ID: 702e99fd14714635a90ce1f289e718c5
+    Virtualization: oracle
+  Operating System: Debian GNU/Linux 10 (buster)
+            Kernel: Linux 4.19.0-16-amd64
+      Architecture: x86-64
+ZCZC chktoken
+machffud 0944-9026
